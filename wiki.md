@@ -1,7 +1,7 @@
 # object-oriented-SLMS
 COM5012 Object Oriented Programming Assignment Record:
 
-1. Requirements:
+1. Requirements: 
 
 The Smart Library Management System will fulfil a set of functional and non-functional requirements.
 System Functions:
